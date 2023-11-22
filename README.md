@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Jeffrey Jewett</h1>
-I am a growth expert, turned developer.
+<p>I am a growth expert, turned developer.</p>
 
-I am currently learning and building in: 
+<strong>I am currently learning and building in: </strong>
 <ul>
 <li>Next.js</li>
 <li>React</li>
